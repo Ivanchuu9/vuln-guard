@@ -1,6 +1,7 @@
 # 🛡️ VulnGuard - Automated Vulnerability Engine
 
-![VulnGuard Demo](image.png)
+![demo](https://github.com/user-attachments/assets/1dd95ae8-b7b7-44f9-9908-9d8d09f5eb49)
+
 
 **VulnGuard** es un motor de ingestión y análisis de vulnerabilidades (CVEs) diseñado con una arquitectura modular en Python. Su objetivo es automatizar la detección de amenazas críticas y notificar a los equipos de seguridad en tiempo real.
 
@@ -95,3 +96,4 @@ Este script está diseñado con fines educativos y de demostración de arquitect
 
 ## 📄 Licencia
 Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más detalles. Desarrollado con ❤️ por ivanchuu9.
+
